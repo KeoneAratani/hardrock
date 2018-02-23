@@ -1,0 +1,28 @@
+.ui.topmenu.menu{
+  font-family: sans-serif;
+  background-color: black;
+  margin: none;
+  border: none;
+}
+
+#logo{
+  float: left;
+}
+
+.footer-background {
+  background-color: #f96d21;
+
+}
+
+.text{
+  color: white;
+}
+
+.footer-background{
+  text-align: center;
+}
+
+.text1{
+  font-size: 25px;
+  color: white;
+}
